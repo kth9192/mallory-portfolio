@@ -4,7 +4,7 @@ import Test1 from '../public/test1.png';
 import Test2 from '../public/test2.png';
 import Test3 from '../public/test3.png';
 import { resource } from '@/shared/resource';
-import LinkItem from '@/components/LinkItem';
+import LinkItem from '@/components/linkItem';
 
 export default function Home() {
   return (
